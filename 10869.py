@@ -9,7 +9,7 @@ print(A*B)
 print(int(A/B)) 
 '''
 Division part must be output an integer form,
-int() coverd one more
+The int() coverd one more
 '''
 
 print(A%B)
